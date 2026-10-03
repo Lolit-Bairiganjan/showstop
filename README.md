@@ -1,0 +1,1 @@
+A basic copy of 'BookMyShow' website to learn backend operations, optimizations
